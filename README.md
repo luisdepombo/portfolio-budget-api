@@ -5,10 +5,10 @@ Simple Node/Express API to manage a portfolio budget using a budget envelope str
 ## Running the app
 To run locally, run `npm install`, then `npm start`
 
-Once the app is running locally, you can access the API at `http://localhost:5000/`
+Once the app is running locally, you can access the API at `http://localhost:3000/`
 
 ## Testing with Swagger
-Swagger documentation and testing available at `http://localhost:5000/api/v1/api-docs`
+Swagger documentation and testing available at `http://localhost:3000/api/v1/api-docs`
 
 To test with Swagger:
 
